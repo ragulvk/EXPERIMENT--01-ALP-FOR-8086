@@ -1,6 +1,6 @@
 # EXPERIMENT--01-ALP-FOR-8086
-### Name : Sowmiya N
-### Roll no : 212221230106
+### Name : RAGUL VK
+### Roll no : 212221240043
 ### Date of experiment : 09.09.2022
 
 ## Aim: 
