@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086:
 ~~~
-Name : H.Syed Abdul Wasih 
-Register Number : 212221240057
+Name : Ragul Vk
+Register Number : 212221240043
 Date of experiment : 09/09/2022
 ~~~
 ## Aim: 
@@ -41,19 +41,19 @@ HLT;
 
 ## Output:
 ### Loading AX and BX register with the Numbers whose Addition has to be found :
-  ![output](./output/1.jpg)
-  ![output](./output/2.jpg)
-  ![output](./output/3.jpg)
+  ![output](1.jpg)
+  ![output](2.jpg)
+  ![output](3.jpg)
 ### Performing 8-bit Addition using "ADD" instructions :
-  ![output](./output/4.jpg)
+  ![output](4.jpg)
 ### Moving the data to CX register :
-  ![output](./output/5.jpg)
+  ![output](5.jpg)
 ### Resetting the AX register :
-  ![output](./output/6.jpg)
+  ![output](6.jpg)
 ### End of the execution :
-  ![output](./output/7.jpg)
+  ![output](7.jpg)
 ### Status of flags:
-  ![output](./output/8.jpg)
+  ![output](8.jpg)
 
 ## Subtraction of 8 bit numbers  ALP :
 ## Program:
@@ -70,19 +70,19 @@ HLT;
 
 ## Output:
 ### Loading AX and BX register with the Numbers whose Subtraction has to be found :
-  ![output](./output/9.jpg)
-  ![output](./output/10.jpg)
-  ![output](./output/11.jpg)
+  ![output](9.jpg)
+  ![output](10.jpg)
+  ![output](11.jpg)
 ### Performing 8-bit Subtraction using "SUB" instructions :
-  ![output](./output/12.jpg)
+  ![output](12.jpg)
 ### Moving the data to CX register :
-  ![output](./output/13.jpg)
+  ![output](13.jpg)
 ### Resetting the AX register :
-  ![output](./output/14.jpg)
+  ![output](14.jpg)
 ### End of the execution :
-  ![output](./output/15.jpg)
+  ![output](15.jpg)
 ### Status of flags:
-  ![output](./output/16.jpg)
+  ![output](16.jpg)
 
 ## Multiplication ALP: 
 ## Program:
@@ -98,19 +98,19 @@ HLT;
 ~~~
 ## Output: 
 ### Loading AL and BL register with the Numbers whose Multiplication has to be found :
-  ![output](./output/17.jpg)
-  ![output](./output/18.jpg)
-  ![output](./output/19.jpg)
+  ![output](17.jpg)
+  ![output](18.jpg)
+  ![output](19.jpg)
 ### Performing 8-bit Multiplication using "MUL" instructions :
-  ![output](./output/20.jpg)
+  ![output](20.jpg)
 ### Moving the data to CL register :
-  ![output](./output/21.jpg)
+  ![output](21.jpg)
 ### Resetting the AL register :
-  ![output](./output/22.jpg)
+  ![output](22.jpg)
 ### End of the execution :
-  ![output](./output/23.jpg)
+  ![output](23.jpg)
 ### Status of flags:
-  ![output](./output/24.jpg)
+  ![output](24.jpg)
 
 ## Division ALP:
 ## Program:
@@ -126,19 +126,19 @@ HLT;
 ~~~
 ## Output:  
 ### Loading AL and BL register with the Numbers whose Division has to be found :
-  ![output](./output/25.jpg)
-  ![output](./output/26.jpg)
-  ![output](./output/27.jpg)
+  ![output](25.jpg)
+  ![output](26.jpg)
+  ![output](27.jpg)
 ### Performing 8-bit Division using "DIV" instructions :
-  ![output](./output/28.jpg)
+  ![output](28.jpg)
 ### Moving the data to CL register :
-  ![output](./output/29.jpg)
+  ![output](29.jpg)
 ### Resetting the AL register :
-  ![output](./output/30.jpg)
+  ![output](30.jpg)
 ### End of the execution :
-  ![output](./output/31.jpg)
+  ![output](31.jpg)
 ### Status of flags:
-  ![output](./output/32.jpg)
+  ![output](32.jpg)
 
 ## Result :
 
